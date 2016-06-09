@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Droidz Tutorial</string>
+    <string name="hello">Hello World, DroidzActivity!</string>
+    <string name="warning">Robots are rising!</string>
+</resources>
